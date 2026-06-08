@@ -1,0 +1,2 @@
+# NATEXTRBot
+NATEX KRALLIĞI Telegram Botu
